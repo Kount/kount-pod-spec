@@ -9,6 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Kount'
   s.version          = '6.0.1'
+  s.deprecated       = true
   s.summary          = 'KountDataCollector that collects data from device and iOS app.'
   s.description      = 'Kount SDK for iOS helps integrate Kount fraud fighting solution into your iOS app.'
   s.homepage         = 'https://github.com/Kount/kount-cocoa-pods-source'
